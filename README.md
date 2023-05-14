@@ -54,9 +54,6 @@ assign f2 = (x&y)|(w&y)|(~y&z);
 endmodule
 ```
 ## RTL realization
-
-## Output:
-## RTL
 #### F1
 ![image](https://github.com/varshasharon/Experiment--02-Implementation-of-combinational-logic-/assets/98278161/db4abef1-a39b-47f3-9710-77883adb36df)
 
