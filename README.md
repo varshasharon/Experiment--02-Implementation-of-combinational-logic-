@@ -54,17 +54,17 @@ assign f2 = (x&y)|(w&y)|(~y&z);
 endmodule
 ```
 ## RTL realization
-#### F1
+### F1
 ![image](https://github.com/varshasharon/Experiment--02-Implementation-of-combinational-logic-/assets/98278161/db4abef1-a39b-47f3-9710-77883adb36df)
 
-#### F2
+### F2
 ![image](https://github.com/varshasharon/Experiment--02-Implementation-of-combinational-logic-/assets/98278161/cdb90b96-e33b-411d-89a7-c8a89362ee02)
 
 ## Timing Diagram
-#### F1
+### F1
 ![image](https://github.com/varshasharon/Experiment--02-Implementation-of-combinational-logic-/assets/98278161/26b54537-89c9-4faf-b3e5-9ca48d6186e2)
 
-#### F2
+### F2
 ![image](https://github.com/varshasharon/Experiment--02-Implementation-of-combinational-logic-/assets/98278161/1cb4c6be-c245-4c3a-9804-e7be43c63fc8)
 
 ## Result:
